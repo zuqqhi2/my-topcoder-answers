@@ -36,3 +36,11 @@ public class ANewHope {
         System.out.println(anh.count(firstWeek, lastWeek, 3));
     }
 }
+
+/*
+Difficulty: Easy
+Time: -
+Point: 75.00
+Time Complexity: O(N)
+Space Complexity: O(N)
+*/
